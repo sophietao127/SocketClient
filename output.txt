@@ -1,0 +1,9 @@
+(base) sophietao@Ziweis-MacBook-Air tcp % java Client djxmmx.net 17
+"You want some crabs, 'cause I got some of them.
+ I don't know if they're Alaskan King, but, they feel huge..."
+
+(base) sophietao@Ziweis-MacBook-Air tcp % java Client time.nist.gov 13
+
+60045 23-04-11 06:12:59 50 0 0 468.2 UTC(NIST) *
+
+(base) sophietao@Ziweis-MacBook-Air tcp % java SocketClient tcpbin.com 4242
